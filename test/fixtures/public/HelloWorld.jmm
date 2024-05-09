@@ -1,0 +1,15 @@
+import a;
+import ioPlus;
+import ioPlus2.a.b;
+class HelloWorld{
+
+    public static void main(String[] args) {
+        boolean b;
+        boolean c;
+        c = true;
+        b = true && c;
+        c = !b;
+        a.println();
+    }
+
+}

@@ -1,0 +1,18 @@
+import io;
+import MathUtils;
+class Test {
+
+public static void main(String[] args) {
+
+}
+
+public int foo() {
+Test t;
+t = new Test();
+
+return t.bar();
+}
+ public int bar() {
+return MathUtils.random(10, 20);
+}
+}

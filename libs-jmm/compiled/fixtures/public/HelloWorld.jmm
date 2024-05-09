@@ -1,0 +1,10 @@
+import a;
+import ioPlus;
+import ioPlus2.a.b;
+class HelloWorld{
+
+    public static void main(String[] args) {
+        a.println();
+    }
+
+}
